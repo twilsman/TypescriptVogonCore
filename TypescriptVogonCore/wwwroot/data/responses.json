@@ -1,0 +1,14 @@
+﻿[
+  {
+    "sentiment": 1,
+    "text": "Typescript is the best!"
+  },
+  {
+    "sentiment": 2,
+    "text": "It's too bad you're not smart enough to use ES6 and Babel.js."
+  },
+  {
+    "sentiment": 3,
+    "text": "Thanks, Chad."
+  }
+]
